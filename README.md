@@ -19,3 +19,5 @@
 [X] Evita que algunos ficheros se suban ignorándolos.
 
 [X] Por último, instala GitKraken y lo asocias al repositorio creado.
+
+
